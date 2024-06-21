@@ -1,0 +1,15 @@
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\Dados\bin\Debug\net8.0\Dados.exe
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\Dados\bin\Debug\net8.0\Dados.deps.json
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\Dados\bin\Debug\net8.0\Dados.runtimeconfig.json
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\Dados\bin\Debug\net8.0\Dados.dll
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\Dados\bin\Debug\net8.0\Dados.pdb
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\Dados\obj\Debug\net8.0\Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\Dados\obj\Debug\net8.0\Dados.AssemblyInfoInputs.cache
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\Dados\obj\Debug\net8.0\Dados.AssemblyInfo.cs
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\Dados\obj\Debug\net8.0\Dados.csproj.CoreCompileInputs.cache
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\Dados\obj\Debug\net8.0\Dados.sourcelink.json
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\Dados\obj\Debug\net8.0\Dados.dll
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\Dados\obj\Debug\net8.0\refint\Dados.dll
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\Dados\obj\Debug\net8.0\Dados.pdb
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\Dados\obj\Debug\net8.0\Dados.genruntimeconfig.cache
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\Dados\obj\Debug\net8.0\ref\Dados.dll
