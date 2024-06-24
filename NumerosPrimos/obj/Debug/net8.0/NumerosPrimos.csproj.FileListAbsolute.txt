@@ -1,0 +1,15 @@
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\NumerosPrimos\bin\Debug\net8.0\NumerosPrimos.exe
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\NumerosPrimos\bin\Debug\net8.0\NumerosPrimos.deps.json
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\NumerosPrimos\bin\Debug\net8.0\NumerosPrimos.runtimeconfig.json
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\NumerosPrimos\bin\Debug\net8.0\NumerosPrimos.dll
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\NumerosPrimos\bin\Debug\net8.0\NumerosPrimos.pdb
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.AssemblyInfoInputs.cache
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.AssemblyInfo.cs
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.sourcelink.json
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.dll
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\NumerosPrimos\obj\Debug\net8.0\refint\NumerosPrimos.dll
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.pdb
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.genruntimeconfig.cache
+C:\NetAcademy\c#\ViridianaMalpicaRefuerzoFunciones\NumerosPrimos\obj\Debug\net8.0\ref\NumerosPrimos.dll
